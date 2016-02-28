@@ -1,0 +1,13 @@
+.flex-direction-nav a:before {
+  font-size: 21px!important;
+}
+
+/*.flexslider .slides img {
+  max-height: 500px;
+}*/
+
+.slider-container {
+    width: 100%;
+    margin: 0 auto;
+    height: auto;
+}
